@@ -1,0 +1,172 @@
+
+# 1- Headings
+
+How to give heading to the file?
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+###### so on
+
+# 2- Block of words
+
+This is a normal text in Markdown
+
+>This is a block of special text in Markdown
+>
+>This is second line
+
+# 3 - Break lines
+
+My Name is Ayesha\
+I'm 18year's old
+
+# 4- Combine two things
+
+>## Heading 2
+
+# 5 Face of text
+
+for bold  **Python**
+
+for italic *Python*
+
+for both ***Python***
+
+other method for bold and italic can b used underscore(_) such as
+
+__TFCSPKCLHEARTIMLTZ__  for bold use two time underscore
+
+_TFCSPKCLHEARTIMLTZ_  for italic use one time underscore
+
+# 6- Bullet points/ lists
+
+- Day_1
+- Day_2
+- Day_3
+- Day_4
+- Day_5
+        - sub list
+  - Day-5a
+  - Day-5b
+- Day-6
+- Day_7
+
+>Numbering of lists
+
+1. Day_1
+2. Day_2
+3. Day_3
+4. Day_4
+5. Day_5
+      1. day_5a
+      2. day_5b
+6. Day_6
+7. Day_7
+
+**using *Or+**
+
+- 1
+
+- 1 like that
+
+# 7- Line break or page break
+
+### My Name is Ayesha
+---
+
+I'm 18 year's old
+***
+I'm learning python
+___
+
+# 8- Links and hyperlinks
+
+<https://youtu.be/qJqAXjz-Rh4>
+
+<https://www.youtube.com/watch?v=qJqAXjz-Rh4>
+
+[Here is my youtube channel](https://youtu.be/qJqAXjz-Rh4)
+
+[youtube]:https://www.youtube.com/watch?v=qJqAXjz-Rh4
+
+This is youtube [here][youtube]
+
+# 9- images and figuers with link
+
+for see the picuter follow the link:
+![jpg](tz.jpg)
+
+for watching video:
+![mp4](tz.mp4)
+
+Online picture:
+![codanics]<https://www.google.com/search?sca_esv=2a2dd4cd458323c6&rlz=1C1CHBF_en-GBPK1107PK1107&sxsrf=ADLYWIIxylcmYmdkuKfHeyvLCBSc9uFfdQ:1723085256081&q=codanics&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joQcoZ-0Q2Udkt2zEybT7HdNV1kobqvEwEVRYBCltlBtQd5-pPeakpVgpgEn2RgmgzeZo15rltNMrDtoZe63sl46hHJXZmfPBeZdqdwrtlSxkvce3I&sa=X&ved=2ahUKEwj32uzksOSHAxWNiP0HHSexHP0QtKgLegQIGRAB#vhid=-3KVuJG-Yk6cOM&vssid=mosaic>
+
+# 10- Adding code and code block
+
+To print a string:  
+`print("codanics")`
+
+`print("hellow world")`
+
+for python
+```python
+x=2+3
+y=6
+z=x+y
+print(z)
+```
+
+for html
+
+```html
+x=2+3
+y=6
+z=x+y
+print(z)
+```
+
+```python
+x =2+9
+print(x)
+```
+
+```r
+x=2+3
+print(x)
+```
+
+```html
+x=34
+print(x)
+```
+
+# 11- Adding table
+
+| species| petal_length | sepal_length |
+| :-------:|:--------------:| :---------: |
+|verginica| 18.2 |   19.2 |
+|setosa |  15.1 | 17.2 |
+|versicolor | 12.2 | 12.2
+|verginica| 18.2 |   19.2 |
+|setosa |  15.1 | 17.2 |
+|versicolor | 12.2 | 12.2
+
+# 12- Contents
+
+[headings](#9--images-and-figuers-with-link)
+[1](#10--adding-code-and-code-block)
+[2](#7--line-break-or-page-break)
+
+# 13- Install extensions
+- markdown All in One
+- markdown lint
+- markdown shortcut
+- markdown pdf
+- pdf
